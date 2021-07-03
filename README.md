@@ -1,3 +1,6 @@
+# ATTENSION
+**THIS IS USELESS**
+
 # MyTime
 Shows your date data
 Follow my steps to run the project:
